@@ -1,6 +1,8 @@
 TxDBus
 ======
 
+[![Join the chat at https://gitter.im/gelisa/txdbus](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/gelisa/txdbus?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 Tom Cocagne <tom.cocagne@gmail.com>
 v1.0, July 2012
 
